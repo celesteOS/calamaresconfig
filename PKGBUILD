@@ -1,7 +1,7 @@
 # Maintainer: Stella Benware (enterthevoidx86@gmail.com)
 
 pkgname=calamares-config
-pkgver=2025.04.02
+pkgver=2025.04.02-01
 pkgrel=1
 pkgdesc='Odysen Calamares config'
 arch=('any')
