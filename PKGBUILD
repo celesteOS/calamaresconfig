@@ -2,7 +2,7 @@
 
 pkgname=calamares-config
 pkgver=2025.04.02
-pkgrel=8
+pkgrel=9
 pkgdesc='Odysen Calamares config'
 arch=('any')
 license=('GPL-3.0-or-later')
