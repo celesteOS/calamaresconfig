@@ -1,13 +1,14 @@
-# Maintainer: Stella Benware (enterthevoidx86@gmail.com)
+# Maintainer: Juniper Solis (venusisonvenus@gmail.com)
+# Originally by: Stella Benware (enterthevoidx86@gmail.com)
 
 pkgname=calamares-config
-pkgver=2025.04.03
+pkgver=2025.06.26
 pkgrel=3
-pkgdesc='Odysen Calamares config'
+pkgdesc='A Calamares config for celesteOS'
 arch=('any')
 license=('GPL-3.0-or-later')
-url='https://odysen.space'
-depends=('calamares-odysen')
+url='https://celesteos.com'
+depends=()
 source=()
 sha256sums=()
 
